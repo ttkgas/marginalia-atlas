@@ -1,0 +1,4 @@
+Study ID: cs562ow-f22d79ca
+This site is part of a university course research project (CS 562) on how AI search
+systems find and use web content. Contact: open an issue at https://github.com/ttkgas/marginalia-atlas
+Pages will be replaced with correction notices after the study ends (December 2026).
